@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 框框中的框框 */
+        /* 外面　relative */
+        /* 裡面 absolute */
+        .box {
+            position: relative;
+            width: 300px;
+            height: 300px;
+            background-color: lightblue;
+            margin-top: 10px;
+            left: 100px;
+            
+        }
+
+        .box-pink {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background-color: pink;
+            top: 0;
+            right: 0;
+
+        }
+
+        .box-yellow {
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background-color: lightyellow;
+            right: 0;
+            bottom: 0;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <div class="box-pink">
+
+        </div>
+        <div class="box-yellow">
+
+        </div>
+    </div>
+
+    <div class="box">
+        <div class="box-pink">
+
+        </div>
+        <div class="box-yellow">
+
+        </div>
+    </div>
+
+
+    <div class="box">
+        <div class="box-pink">
+
+        </div>
+        <div class="box-yellow">
+
+        </div>
+    </div>
+
+
+</body>
+
+</html>
