@@ -13,12 +13,12 @@ $products = [
     ['id' => 'p4', 'title' => '北歐風抱枕', 'image' => 'https://images.buy123.com.tw/deal/1376739173897079931-7TRH3CO8.png', 'price' => 'NT$540'],
     ['id' => 'p5', 'title' => '極致床品組', 'image' => 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1000&q=80', 'price' => 'NT$3,280'],
     ['id' => 'p6', 'title' => '手工木質餐桌', 'image' => 'https://laoshihfu.tw/wp-content/uploads/2024/09/IMG_6233.jpg', 'price' => 'NT$6,480'],
-    ['id' => 'p7', 'title' => '復古攝影機', 'image' => 'https://tfai.openmuseum.tw/files/muse_tfi/muse_styles/thumbnail_medium/mcode/ca4e493e20477727f413272560a80fd5.jpg?itok=Dmq8EH5q', 'price' => 'NT$1,990'],
     ['id' => 'p8', 'title' => '極光掛畫', 'image' => 'https://d2onjhd726mt7c.cloudfront.net/online_images/art_img/big/36097.jpg', 'price' => 'NT$1,250'],
+    ['id' => 'p7', 'title' => '復古攝影機', 'image' => 'https://tfai.openmuseum.tw/files/muse_tfi/muse_styles/thumbnail_medium/mcode/ca4e493e20477727f413272560a80fd5.jpg?itok=Dmq8EH5q', 'price' => 'NT$1,990'],
     ['id' => 'p9', 'title' => '綠意盆栽組', 'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLc-xDG8RgCAxB6JmY6A9uhBJFrgK-MkH0xw&s', 'price' => 'NT$760'],
-    ['id' => 'p10', 'title' => '工業風置物架', 'image' => 'https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=1000&q=80', 'price' => 'NT$2,150'],
-    ['id' => 'p11', 'title' => '大理石餐盤組', 'image' => 'https://images.unsplash.com/photo-1517685352821-92cf88aee5a5?auto=format&fit=crop&w=1000&q=80', 'price' => 'NT$1,120'],
-    ['id' => 'p12', 'title' => '香氛蠟燭組', 'image' => 'https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=1000&q=80', 'price' => 'NT$620'],
+    ['id' => 'p10', 'title' => '工業風置物架', 'image' => 'https://www.mit-machining.com/store_image/turnshelf/Q1690274416891.jpg', 'price' => 'NT$2,150'],
+    ['id' => 'p11', 'title' => '大理石餐盤組', 'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoXTAsoW-WLU89y4lhq1ajzHvA6Za9GukVw&s', 'price' => 'NT$1,120'],
+    ['id' => 'p12', 'title' => '香氛蠟燭組', 'image' => 'https://media.etmall.com.tw/nximg/003160/3160983/3160983_xxl.jpg?t=18132382068', 'price' => 'NT$620'],
 ];
 $topSellers = array_slice($products, 0, 6);
 
